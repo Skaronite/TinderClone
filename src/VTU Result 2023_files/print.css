@@ -1,0 +1,48 @@
+.panel{
+	border:none !important;
+}
+.page {
+        background-color: white !important;
+    }
+
+
+.col-md-12 .phide {
+    display: none !important;
+  }
+  
+.panel-heading .phide  
+ {
+    display: none !important;
+  }
+  
+.col-sm-4 .phide
+ {
+    display: none !important;
+	margin-bottom:0px !important;
+  }  
+  .col-md-2
+  {
+    display: none !important;
+  margin-bottom:0px !important;
+  }
+ .phide{
+ display:none !important;
+ } 
+ 
+   .pfb{
+ border:none !important;
+ }
+ .footer .p{
+  margin-bottom:-15px !important;
+ }
+
+.colorbg {
+    /* background-color: red !important; */
+    background-image: url('../images/vtulogosmall_2.png') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+     -webkit-print-color-adjust:exact !important;
+  }
+#dd {
+  margin-left: 0px !important;
+}
